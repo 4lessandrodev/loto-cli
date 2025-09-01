@@ -1,0 +1,14 @@
+[project]
+name = "loto-cli-plus"
+version = "0.1.0"
+description = "CLI para geração de jogos (Mega-Sena, Lotofácil, Quina) com GRASP, diversidade e anti-popularidade"
+authors = [{ name = "4lessandroDev" }]
+requires-python = ">=3.9"
+dependencies = []
+
+[project.scripts]
+loto-cli = "loto_cli_plus.cli:main"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"

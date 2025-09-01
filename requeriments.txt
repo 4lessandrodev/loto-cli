@@ -1,0 +1,4 @@
+# Nenhuma dependência externa, apenas bibliotecas padrão
+
+make run ARGS="gerar 12 15 lotofacil --stdout"
+
