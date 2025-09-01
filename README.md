@@ -150,6 +150,24 @@ make run ARGS="gerar 12 15 lotofacil --stdout"
 	3.	Objetivo: maximizar cobertura de subconjuntos (t-cover) e minimizar sobreposição/popularidade.
 	4.	Heurística GRASP: construção gulosidade+aleatoriedade → busca local com trocas.
 
+
+---
+
+## ☕ Me paga um café?
+
+Se por acaso você ganhar na loteria usando os números gerados por esta CLI (ou se simplesmente curtir o projeto), que tal me pagar um cafézinho?
+
+É só escanear o QR Code abaixo ou usar a chave PIX:
+
+```
+00020126580014BR.GOV.BCB.PIX0136d41e1042-058b-446c-b90f-71de8870ac065204000053039865802BR5925Alessandro Lima de Meneze6009SAO PAULO62140510r0qpkHMLUg63043555
+```
+
+<img src="./assets/pix-qr-code.jpeg" alt="PIX QR Code" width="250"/>
+
+Valeu demais! 🚀
+
+
 ⸻
 
 ### ⚠️ Aviso legal
